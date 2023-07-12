@@ -10,7 +10,7 @@ INSERT INTO users (
 ) VALUES 
 ('Dan', 'Mazzilli', 'Pursuit', 'Interested in sustainability, sports analytics, and resource optimization.', 'https://github.com/Daniel-Mazzilli/9-1-front-end-portfolio-project', 'https://github.com/Daniel-Mazzilli/budgeting-app-front-end'),
 ('Destiny', 'Joyner', 'Pursuit', 'Enjoys the problem solving challenges that come with coding. Interested in building immersive worlds in the virtual universe.', 'https://github.com/DestinyJoyner/Budget-App-React', 'https://destiny-calendar-project.netlify.app/'),
-('Ron', 'Jon', 'Pursuit', 'I like cars!', 'link1', 'link2');
+('Salina', 'Malek', 'Pursuit', 'I like gaming!', 'link1', 'link2');
 
 INSERT INTO logins (
     email,
