@@ -19,7 +19,7 @@ INSERT INTO logins (
 ) VALUES
 ('dm@email.com', '$2b$10$Nc1/F2rXyIysYHea4eQnMOtcXMrHTcV485Hqe/N/BmVylXtj7fozm', 1),
 ('dj@email.com', '$2b$10$Nc1/F2rXyIysYHea4eQnMOtcXMrHTcV485Hqe/N/BmVylXtj7fozm', 2),
-('rj@email.com', '$2b$10$Nc1/F2rXyIysYHea4eQnMOtcXMrHTcV485Hqe/N/BmVylXtj7fozm', 3);
+('sm@email.com', '$2b$10$Nc1/F2rXyIysYHea4eQnMOtcXMrHTcV485Hqe/N/BmVylXtj7fozm', 3);
 
 INSERT INTO skills (
     skill_name
